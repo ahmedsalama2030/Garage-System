@@ -50,7 +50,7 @@
 5.  barcode 128.
 6.  sql server 2014.
 7.   jquery & js.
-8.  js.
+ 
 			
  
  
