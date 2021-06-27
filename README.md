@@ -43,14 +43,14 @@
 	 
  
 > **2- Languages and Technologies used**
-            1. Asp core mvc .
-			2- Adminlte Template 
-			3- bootstrap 
-			4- datatable third party.
-			5-barcode 128.
-			6-sql server 2014.
-			7- jquery & js.
-			8-js.
+         1.    Asp core mvc .
+2.   Adminlte Template 
+3.   bootstrap 
+4.   datatable third party.
+5.  barcode 128.
+6.  sql server 2014.
+7.   jquery & js.
+8.  js.
 			
  
  
