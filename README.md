@@ -43,7 +43,7 @@
 	 
  
 > **2- Languages and Technologies used**
-         1.    Asp core mvc .
+1.    Asp core mvc .
 2.   Adminlte Template 
 3.   bootstrap 
 4.   datatable third party.
